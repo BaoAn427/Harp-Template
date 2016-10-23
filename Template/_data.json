@@ -1,0 +1,32 @@
+{
+    "index": {
+        "title": "Homepage",
+        "nav": "Homepage",
+        "url_style": [
+
+        ],
+        "url_script": [
+
+        ]
+    },   
+    "404": {
+        "title": "404",
+        "nav": "404",
+        "url_style": [
+
+        ],
+        "url_script": [
+
+        ]
+    },
+    "short-code": {
+        "title": "Short Code",
+        "nav": "Short Code",
+        "url_style": [
+
+        ],
+        "url_script": [
+
+        ]
+    }
+}
